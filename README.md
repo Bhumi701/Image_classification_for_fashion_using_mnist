@@ -60,6 +60,3 @@ The goal of the project is to build a model that can **accurately classify fashi
 - **Retail automation:** Classifying clothing items for inventory management.
 - **E-commerce:** Improving product search and recommendation systems.
 - **Computer vision research:** Benchmarking new ML/DL models.
-
-
-Would you like me to **expand this into a polished project report format** (with sections like Abstract, Introduction, Methodology, Results, Conclusion) so you can directly use it for submission or portfolio?
